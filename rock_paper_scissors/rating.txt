@@ -1,0 +1,3 @@
+Ivan 350
+Anna 200
+Alexey 400
